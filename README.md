@@ -1,4 +1,3 @@
 lingdata
-# lingdata
-
+# lingdata    
 * презентация
